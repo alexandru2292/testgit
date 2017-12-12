@@ -1,3 +1,3 @@
 <?php
-echo "Aici vorr fi users functions";
+echo "Aici vorr fi users";
 
