@@ -1,3 +1,4 @@
 <?php
- echo "Aici va fi Cosul de cumparaturi";
+
+	echo "Aici va fi cart functions";
 ?>
